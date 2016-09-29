@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/FlowControl/FlowControl.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/FlowControl/FlowControl.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/FlowControl/app/app.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/FlowControl/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/Desktop/FlowControl/flow/flow.iml" filepath="/Volumes/DATA/Users/mwirfs/Desktop/FlowControl/flow/flow.iml" />
+    </modules>
+  </component>
+</project>
